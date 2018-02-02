@@ -27,15 +27,15 @@
   },
   "homepage": "https://github.com/hashware/node-cgminer-api",
   "devDependencies": {
-    "mocha": "^1.21.4"
+    "mocha": "^5.0.0"
   },
   "dependencies": {
-    "bluebird": "^2.3.2",
+    "bluebird": "^3.5.1",
     "congruence": "^1.6.4",
-    "lodash": "^2.4.1",
-    "npmlog": "^0.1.1",
-    "request": "^2.45.0",
+    "lodash": "^4.17.4",
+    "npmlog": "^4.1.2",
+    "request": "^2.83.0",
     "requireindex": "^1.1.0",
-    "semver": "^4.0.3"
+    "semver": "^5.5.0"
   }
 }
